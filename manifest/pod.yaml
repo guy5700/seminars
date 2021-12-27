@@ -21,4 +21,4 @@ spec:
       mountPath: /data/redis
  volumes:
   - name: redis-persistent-storage
-    emptyDir: {}
+    emptyDir: {} 
